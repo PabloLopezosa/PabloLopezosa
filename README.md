@@ -1,5 +1,8 @@
 # PABLO LOPEZOSA
 
+![image](https://user-images.githubusercontent.com/97469174/168178033-028b5c98-8a97-4b99-8957-f922ab0bc8ac.png)
+
+
 Datos, datos, datos y más datos.... hoy en día todo son datos. Los datos están en todas partes y alguien tendrá que encargarse de ellos.
 
 Mi nombre es Pablo Lopezosa y soy Data Scientist. Vivo en Madrid y soy un apasionado del mundo de los datos y de todas las posibilidades que nos ofrecen. Mi primer contacto con estos fue en un departamento comercial de una copañía líder en el sector asegurador español. En ella me di cuenta de la importancia de estos y del potencial sin descubrir que aún tienen.
@@ -17,17 +20,18 @@ Mis proyectos destacados:
 
 
 - Hundir la flota en python https://github.com/PabloLopezosa/HUNDIR_LA_FLOTA.git 
+![image](https://user-images.githubusercontent.com/97469174/168178260-1be4efea-3d05-4f17-bddf-5209efb70b2c.png)
 
 
 
-
-- EDA sobre las ventas de coches electricos
-- 
+- EDA sobre las ventas de coches electricos https://github.com/PabloLopezosa/EDA-Electric-cars.git
 ![image](https://user-images.githubusercontent.com/97469174/168177312-ae8b3356-793c-4763-b9f6-c783245b32a8.png)
 
 
 
-- Detención de la cancelación con Machine Learning
-![image](https://user-images.githubusercontent.com/97469174/168177413-8f6647a5-fc9a-4c2d-8552-10fcc8911211.png)
+- Proyecto Machine Learning https://github.com/PabloLopezosa/MACHINE_LEARNING_PROYECT_Churn_Detection.git
+![image](https://user-images.githubusercontent.com/97469174/168178192-c64a6e65-9ece-4488-86ae-5cdc7bd9c8e0.png)
+
+
 
 
