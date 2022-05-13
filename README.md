@@ -1,6 +1,6 @@
 # PABLO LOPEZOSA
 
-![image](https://user-images.githubusercontent.com/97469174/168178033-028b5c98-8a97-4b99-8957-f922ab0bc8ac.png)
+![3185a6_12fa45117464402c9f46a50b39b7953b_mv2](https://user-images.githubusercontent.com/97469174/168233138-8804b0a2-69bf-4e4c-b429-425bf9850818.gif)
 
 
 Datos, datos, datos y más datos.... hoy en día todo son datos. Los datos están en todas partes y alguien tendrá que encargarse de ellos.
