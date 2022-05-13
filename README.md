@@ -1,5 +1,4 @@
-# PABLO LOPEZOSA ![image](https://user-images.githubusercontent.com/97469174/168236000-c5b97169-29c3-4275-a4bc-64a55c3a934a.png)
-
+# PABLO LOPEZOSA ![gatinho-gato](https://user-images.githubusercontent.com/97469174/168236094-fd7f40d9-cb82-450c-97ea-0f2a542e1dcf.gif)
 
 
 ![image](https://user-images.githubusercontent.com/97469174/168233945-5024f32a-31ca-4d68-822a-9dd93d376230.png)
