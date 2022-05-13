@@ -1,7 +1,7 @@
 # PABLO LOPEZOSA
 
 
-![electronic-items-gif-animacion-guillaume-kurkdjian-4](https://user-images.githubusercontent.com/97469174/168233747-84ae30f1-321b-4f09-9042-dc0024961c17.gif)
+![image](https://user-images.githubusercontent.com/97469174/168233945-5024f32a-31ca-4d68-822a-9dd93d376230.png)
 
 
 
