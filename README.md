@@ -5,7 +5,6 @@
 
 
 
-Datos, datos, datos y más datos.... hoy en día todo son datos. Los datos están en todas partes y alguien tendrá que encargarse de ellos.
 
 Mi nombre es Pablo Lopezosa y soy Data Scientist. Vivo en Madrid y soy un apasionado del mundo de los datos y de todas las posibilidades que nos ofrecen. Mi primer contacto con estos fue en un departamento comercial de una copañía líder en el sector asegurador español. En ella me di cuenta de la importancia de estos y del potencial sin descubrir que aún tienen.
 
