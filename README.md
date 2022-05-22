@@ -1,7 +1,10 @@
-# PABLO LOPEZOSA 
+# 🌟 PABLO LOPEZOSA 🌟 
 
 
 ![image](https://user-images.githubusercontent.com/97469174/168233945-5024f32a-31ca-4d68-822a-9dd93d376230.png)
+
+
+
 
 
 
