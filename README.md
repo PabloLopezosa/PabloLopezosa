@@ -36,6 +36,5 @@ Mis proyectos destacados:
 - Proyecto Machine Learning https://github.com/PabloLopezosa/MACHINE_LEARNING_PROYECT_Churn_Detection.git
 ![image](https://user-images.githubusercontent.com/97469174/168178192-c64a6e65-9ece-4488-86ae-5cdc7bd9c8e0.png)
 
-
-
+- Otros repositorios: https://github.com/PabloLopezosa?tab=repositories
 
