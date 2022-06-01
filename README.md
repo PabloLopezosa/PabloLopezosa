@@ -14,7 +14,8 @@ Mi nombre es Pablo Lopezosa y soy Data Scientist. Vivo en Madrid y soy un apasio
 
 Es por ello que decidí formarme en data scientist y poder añadir todos esos conocimientos mi experiencia, agrupando así mi pasión por la orientación a negocio y el mundo de los datos. 
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=PabloLopezosa)
+	
 <p align="center">
 <a href="https://www.linkedin.com/in/pablo-lopezosa-del-pino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
@@ -56,3 +57,10 @@ Mis proyectos destacados:
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloLopezosa&theme=Gradient&hide_langs_below=1&layout=compact" />
 </p>
+	
+	
+	
+	
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>	
