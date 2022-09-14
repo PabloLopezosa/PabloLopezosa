@@ -25,11 +25,11 @@ Es por ello que decidí formarme en data scientist y poder añadir todos esos co
 
 <div style="display: inline_block"><br>
 <p align="center">
-<img align="center" alt="Hugo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Hugo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-<img align="center" alt="Hugo-tensor" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
-<img align="center" alt="Hugo-flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-<img align="center" alt="Hugo-flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+<img align="center" alt="tensor" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+<img align="center" alt="flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+<img align="center" alt="flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
 	  
 #
 	  
