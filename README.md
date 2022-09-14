@@ -25,7 +25,7 @@ Es por ello que decidí formarme en data scientist y poder añadir todos esos co
 
 <div style="display: inline_block"><br>
 <p align="center">
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://www.linkedin.com/in/pablo-lopezosa-del-pino/">
 <img align="center" alt="-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
 <img align="center" alt="tensor" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
 <img align="center" alt="flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
