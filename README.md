@@ -10,7 +10,7 @@
 
 #
 
-Mi nombre es Pablo Lopezosa y soy Data Scientist. Vivo en Madrid y soy un apasionado del mundo de los datos y de todas las posibilidades que nos ofrecen. Mi primer contacto con estos fue en un departamento comercial de una copañía líder en el sector asegurador español. En ella me di cuenta de la importancia de estos y del potencial sin descubrir que aún tienen.
+Mi nombre es Pablo Lopezosa y soy Data Scientist. Vivo en Madrid y soy un apasionado del mundo de los datos y de todas las posibilidades que nos ofrecen. Mi primer contacto con estos fue en un departamento de desarrollo comercial de una copañía líder en el sector asegurador español. En ella me di cuenta de la importancia de estos y del potencial que tienen.
 
 Es por ello que decidí formarme en data scientist y poder añadir todos esos conocimientos mi experiencia, agrupando así mi pasión por la orientación a negocio y el mundo de los datos. 
 
